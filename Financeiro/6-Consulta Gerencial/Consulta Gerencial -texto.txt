@@ -1,0 +1,26 @@
+Para realizar Consultas Gerenciais, selecione a opção “Consulta Gerencial” na Tela Principal.
+
+*Tela principal
+
+Ao selecionar essa opção, a seguinte tela será apresentada:
+
+* 1 - Consulta gerencial
+
+Preencha os filtros de acordo com os parâmetros desejados e selecione a opção “Consultar”. 
+A seguinte tela com os resultados será exibida na parte inferior:
+
+* 2 - Parte inferior
+
+Após selecionar o número do registro, será exibida a tela "Detalhar Faturamento". Nesta tela é possivel 
+visualizar mais detalhes do faturamento, além de ter a opção de realizar a impressão do Recibo e exibir logs.  
+
+* - Detalhar faturamento
+
+
+
+
+
+
+
+
+
