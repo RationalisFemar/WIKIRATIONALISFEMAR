@@ -1,0 +1,15 @@
+Para Consultar as Prestações de contas, selecione a opção “Prestação de conta” na Tela Principal
+
+*imagem da tela inicial"
+
+Ao selecionar essa opção, será exibida uma tela com filtros. 
+Preencha os filtros de acordo com os parâmetros desejados e selecione a opção “Consultar”. A seguinte tela com os resultados será exibida:
+
+
+* 1 - Consulta prestação Filtro
+
+
+
+Ao selecionar o projeto na lista, você será redirecionado para a tela de "Detalhamento da Prestação de Contas", onde poderá visualizar informações mais detalhadas:
+
+* 2 - Detalhar prestação de contas
